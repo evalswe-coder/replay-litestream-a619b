@@ -1,2 +1,2 @@
-# replay-litestream-a619b
-Replayed repository commits
+# litestream
+Streaming replication for SQLite.
